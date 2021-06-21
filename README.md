@@ -4,7 +4,7 @@ Tenho vasta experiência em Photoshop, Illustrator, Figma e Wordpress, por volta
 
 <br />
 <br />
-git 
+
 ## Tecnologias que utilizo:
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-1572B6?C&style=for-the-badge&logo=react&logoColor=white) ![React Native](https://img.shields.io/badge/-Reactnative-1572B6?C&style=for-the-badge&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-1572B6?C&style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?C&style=for-the-badge&logo=JavaScript&logoColor=white) ![Wordpress](https://img.shields.io/badge/-Wordpress-22769B?C&style=for-the-badge&logo=wordpress&logoColor=white)

@@ -13,4 +13,3 @@ git
 ## Fale Comigo
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brunowilliang/)](https://www.linkedin.com/in/brunowilliang/) [![Icloud](https://img.shields.io/badge/-Email-1572B6?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brunowilliang@icloud.com)](mailto:brunowilliang@icloud.com)
-s

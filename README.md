@@ -1,6 +1,7 @@
 # Olá, prazer! Bruno Garcia 🙋🏼‍♂️👋🏻
 
-Tenho vasta experiência em Photoshop, Illustrator, Figma e Wordpress, por volta de 4 anos venho me atualizando e aprofundando meus conhecimentos em Html, CSS e Javascript com foco na stack React e React Native, sempre buscando aprimorar meus conhecimentos a demanda do mercado com o objetivo principal de contribuir grandemente com o crescimento da empresa.
+Desenvolvedor júnior, especializado em React.js, Next.js React Native, Expo, TypeScript.
+UX/UI Designer com domínio total em Figma, Photoshop e Illustrator.
 
 <br />
 

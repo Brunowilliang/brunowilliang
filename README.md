@@ -1,7 +1,6 @@
-# Olá, prazer! Bruno Garcia 🙋🏼‍♂️👋🏻
+# Hi, I’am Bruno Garcia 🙋🏼‍♂️👋🏻
 
-Desenvolvedor júnior, especializado em React.js, Next.js React Native, Expo, TypeScript.
-UX/UI Designer com domínio total em Figma, Photoshop e Illustrator.
+I am a junior/mid-level developer with expertise in React.js, Next.js, React Native, Expo, and TypeScript, as well as advanced skills in UX/UI design using Figma, Photoshop, and Illustrator.
 
 <br />
 

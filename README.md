@@ -1,16 +1,72 @@
-# Hi, I’am Bruno Garcia 🙋🏼‍♂️👋🏻
+<!-- Intro  -->
+<h3 align="center">
+    <samp>&gt; Hey There!, I am
+        <b><a target="_blank" href="https://brunowillian.com">Bruno Garcia</a></b>
+    </samp>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-I am a junior/mid-level developer with expertise in React.js, Next.js, React Native, Expo, and TypeScript, as well as advanced skills in UX/UI design using Figma, Photoshop, and Illustrator.
+<p align="center"> 
+  <samp>
+    <br/>
+    「 Web and Mobile Developer living in <b>Ireland 🍀</b> 」
+    <br/>
+    <br/>
+  </samp>
+</p>
 
-<br />
+<p align="center">
+ <a href="https://brunowillian.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Bruno Garcia" />
+ </a>
+ <a href="https://linkedin.com/in/brunowilliang" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bruno Garcia"/>
+ </a>
+ <a href="https://twitter.com/Brunowgarcia" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Bruno Garcia"/>
+ </a>
+ <a href="https://instagram.com/brunowilliang" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Bruno Garcia"/>
+ </a> 
+</p>
+<!-- <br /> -->
 
-## Technologies and Skills:
+<!-- About Section -->
 
-![ReactJS](https://img.shields.io/badge/-ReactJS-1572B6?C&style=for-the-badge&logo=react&logoColor=white) ![React Native](https://img.shields.io/badge/-Reactnative-1572B6?C&style=for-the-badge&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-1572B6?C&style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?C&style=for-the-badge&logo=JavaScript&logoColor=white) ![Wordpress](https://img.shields.io/badge/-Wordpress-22769B?C&style=for-the-badge&logo=wordpress&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?C&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?C&style=for-the-badge&logo=css3&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-363F5F?C&style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-363F5F?C&style=for-the-badge&logo=adobeillustrator&logoColor=white) ![AdobeXD](https://img.shields.io/badge/-AdobeXD-363F5F?C&style=for-the-badge&logo=adobexd&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-363F5F?C&style=for-the-badge&logo=figma&logoColor=white)
+<h3>
+  <samp>&gt; About
+    <b><a target="_blank" href="https://brunowillian.com">Me</a></b>
+  </samp>
+</h3>
+<hr>
 
-<br />
+<p> 
+  <samp>
+      In the world of technology, I'm a mid-level developer with expertise in React.js, Next.js, React Native, Expo, and TypeScript. Beyond coding, I have a strong inclination towards UX/UI design, mastering tools like Figma, Photoshop, and Illustrator. For me, it's about merging code and design to make the digital space even more amazing.
+  </samp>
+</p>
 
-## Let's talk?
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brunowilliang/)](https://www.linkedin.com/in/brunowilliang/) [![Icloud](https://img.shields.io/badge/-Email-1572B6?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brunowilliang@icloud.com)](mailto:brunowilliang@icloud.com)
+<!-- Technologies and Skills Section -->
+
+<h3>
+  <samp>&gt; Technologies and
+    <b><a>Skills</a></b>
+  </samp>
+</h3>
+<hr>
+<br/>
+
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&labelColor=F7DF1E&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=3178C6&logo=typescript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=61DAFB&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&labelColor=20232A&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&labelColor=000020&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&labelColor=000000&logo=nextdotjs&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&labelColor=FF4154&logo=react%20query&logoColor=white)
+![Pocketbase](https://img.shields.io/badge/Pocketbase-black?style=for-the-badge&labelColor=black&logo=Pocketbase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-00C58E?style=for-the-badge&labelColor=00C58E&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=38B2AC&logo=tailwindcss&logoColor=black)
+![Zustand](https://img.shields.io/badge/Zustand-5C2D91?style=for-the-badge&labelColor=5C2D91&logo=zustand&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&labelColor=007ACC&logo=visual%20studio%20code&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=F05032&logo=git&logoColor=black)
